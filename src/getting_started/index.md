@@ -19,7 +19,7 @@ head:
 <dependency>
   <groupId>jp.co.future</groupId>
   <artifactId>uroborosql</artifactId>
-  <version>0.25.0</version>
+  <version>0.26.8</version>
 </dependency>
 ```
 
@@ -64,7 +64,7 @@ head:
 Gradleプロジェクトの場合は、**build.gradle**のdependencies内に以下のライブラリ依存関係を追加してください。
 
 ```groovy
-compile group: 'jp.co.future', name: 'uroborosql', version: '0.25.0'
+compile group: 'jp.co.future', name: 'uroborosql', version: '0.26.8'
 
 // 式言語ライブラリとしてOGNLを使用する場合
 compile group: 'ognl', name: 'ognl', version: '3.1.23'

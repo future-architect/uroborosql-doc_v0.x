@@ -1,12 +1,12 @@
 ---
 layout: home
-title: uroboroSQL,
+title: uroboroSQL (v0.x),
 hero:
-  name: uroboroSQL
+  name: uroboroSQL (v0.x)
   text: '<span style="white-space: nowrap">Java製のシンプルな<wbr>SQL実行ライブラリ</span>'
   image:
     src: /images/logo.png
-    alt: uroboroSQL
+    alt: uroboroSQL (v0.x)
   actions:
     - theme: brand
       text: Why uroboroSQL
@@ -21,7 +21,7 @@ features:
 head:
   - - meta
     - name: og:title
-      content: "uroboroSQL"
+      content: "uroboroSQL (v0.x)"
   - - meta
     - name: og:url
       content: "/uroborosql-doc_v0.x/"
