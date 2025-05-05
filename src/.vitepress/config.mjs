@@ -150,6 +150,7 @@ export default defineConfig({
       { text: "設定", link: "/configuration/" },
       { text: "高度な操作", link: "/advanced/" },
       { text: "Developer Tools", link: "/developer_tools/" },
+      { text: "最新バージョン", link: "https://future-architect.github.io/uroborosql-doc/" },
     ],
 
     sidebar: links,
